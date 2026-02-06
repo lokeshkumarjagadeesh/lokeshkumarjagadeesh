@@ -18,4 +18,4 @@ Data Analyst
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/lokeshkumarjagadeesh2004?theme=dark&font=Shippori%20Mincho&ext=contest)
 
-[![Lokeshkumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lokeshkumarjagadeesh&bg_color=363030&color=9e4c98&line=624c9e&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Lokeshkumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lokeshkumarjagadeesh&bg_color=363030&color=9e4c98&line=624c9e&point=403d3d&area=true&hide_border=true)]()
